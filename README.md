@@ -20,7 +20,7 @@ I used different concepts of solidity language to write this smart contract like
 
 Contributors names and contact info:
 
-Aman Chaudhari   
+Sindhu sharnagat   
 
 [@sindhu1101](https://github.com/sindhu1101)
 
